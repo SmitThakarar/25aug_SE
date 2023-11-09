@@ -1,0 +1,63 @@
+#main {
+}
+
+.heading{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    background-color: blue;
+    color: rgb(167, 19, 19);
+}
+
+.selectSize{
+    padding-left: 100px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.heading2{
+    color: rgb(167, 19, 19);
+    padding-top: 25px;
+    padding-left: 10px;
+    font-weight: bold;  
+
+}
+
+.align_center{
+    display:flex;
+    width:55%;
+    flex-direction: column;
+    text-align: center;
+}
+
+.paragraph{
+    padding-left: 10px;
+}
+
+.right_align{
+    text-align: right;
+    padding: 2px;
+}
+
+.button_style{
+    background-color: blue;
+    color: white;
+    margin:5px
+}
+
+.centerWrapper{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 23%;
+    padding-right: 28%;
+
+}
+
+.buttonWrapper{
+    display: flex;
+    justify-content: center;
+}
+
+.fullScreen{
+    background-color:lightblue;
+    height: 680px
+}
